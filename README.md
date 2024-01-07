@@ -1,1 +1,1 @@
-# furni
+This repository contains the code and assets for a set of landing pages designed to showcase furniture products and drive conversions. The pages are built with ,HTML, CSS , java script and utilize bootstrap for a visually appealing and responsive layout.
